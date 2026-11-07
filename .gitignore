@@ -1,0 +1,20 @@
+# Notas e informes de trabajo con Claude (no se sincronizan)
+_chatClaude/
+
+# Configuración local de Claude Code
+.claude/settings.local.json
+
+# Editores / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ficheros de prueba generados localmente
+*.srt
+*.ass
